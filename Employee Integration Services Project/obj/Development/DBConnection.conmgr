@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DBConnection"
+  DTS:DTSID="{1E00FFC7-2B2F-411D-9FF0-1BE17CCA42C2}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-BQC6PN7\MSSQLSERVERDEV;Initial Catalog=OrionDB;Integrated Security=True;Application Name=SSIS-Employee Integration Services Project-{1E00FFC7-2B2F-411D-9FF0-1BE17CCA42C2}DESKTOP-BQC6PN7\MSSQLSERVERDEV.OrionDB;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

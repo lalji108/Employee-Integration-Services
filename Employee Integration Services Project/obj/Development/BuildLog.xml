@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>Employee Integration Services Project</Name>
+    <LastWriteTime>2022-02-21T11:02:46.4388835Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>Employee Package.dtsx</Name>
+      <LastWriteTime>2022-02-21T11:02:19.6793776Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
